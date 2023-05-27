@@ -21,7 +21,7 @@
     'init_xml': [],
     'data': [
         'security/ir.model.access.csv',
-        # 'security/account_security.xml',
+        'security/event_sale_analytic_report_security.xml',
         'report/event_sale_analytic_report_view.xml',
     ],
     'qweb': [
